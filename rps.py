@@ -1,6 +1,7 @@
 # J.P. Leis, Period 6
 # Rock Paper Scissors
 # rps.py
+#added comment for github
 import random
 # Variables
 pScore = 0
